@@ -1,0 +1,5 @@
+{
+  "name": "Rifa Solidária",
+  "description": "Uma aplicação para gerenciar uma rifa solidária. Os usuários podem escolher números, ver as informações de pagamento via PIX, e o administrador pode gerenciar os pagamentos e as configurações da rifa.",
+  "requestFramePermissions": []
+}
